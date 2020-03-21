@@ -10,7 +10,7 @@ apt install python & python2
 
 apt install git 
 
-git clone https://github.com/Anti9929/Mr.Anti/new/master?readme=1
+git clone https://github.com/Anti9929/Mr.Anti
 
 ls
 cd website_killer.py
