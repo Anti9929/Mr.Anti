@@ -10,13 +10,13 @@ apt install python & python2
 
 apt install git 
 
-git clone https://github.com/Anti9929/Mr.Anti
+git clone https://github.com/Anti9929/Mr.Anti/tree/master
 
 ls
-cd website_killer.py
-chmod +x websitekiller.py
+cd Gmail_hack account.py
+chmod +x Gmail_hack account.py
 
-python2 website_killer.py
+python2 Gmail_hack account.py
 
 
 
