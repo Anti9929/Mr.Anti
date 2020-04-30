@@ -6,17 +6,18 @@ On termux
 
 apt update & upgrade
 
-apt install python & python2
+apt install bash
 
 apt install git 
 
-git clone https://github.com/Anti9929/Mr.Anti/tree/master
+git clone https://github.com/Anti9929/Mr.Anti
 
 ls
-cd Gmail_hack account.py
-chmod +x Gmail_hack account.py
+cd Mr.Anti
+chmod +x *
 
-python2 Gmail_hack account.py
+
+bash amino-brute--force.sh
 
 
 
